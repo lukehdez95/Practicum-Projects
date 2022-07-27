@@ -28,7 +28,7 @@
 
 # Goal
 
-To determine which factors determine the price of a vehicle by compaying various aspects of vehicle listings.
+To determine which factors determine the price of a vehicle by comparing various aspects of the vehicle listings.
 
 # Libraries Used
 
