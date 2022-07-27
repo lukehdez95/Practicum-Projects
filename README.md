@@ -1,5 +1,5 @@
 # Practicum_by_Yandex-Projects
-All of my project submissions throughout the [Practicum by Yandex curriculum](https://practicum.yandex.com/data-scientist)
+All of my project submissions throughout the [Practicum by Yandex curriculum](https://practicum.yandex.com/data-scientist).
 
 | **Project name** | **Description** | **Libraries used** |
 | :---------------------- | :---------------------- | :---------------------- |
